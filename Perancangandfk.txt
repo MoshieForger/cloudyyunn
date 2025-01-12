@@ -1,4 +1,5 @@
 Perancanngan DFK 2025 :
--create wbsite alumni
--bina komuniti bersama IPTA lain
 -wujudkan kerjasama dengan syarikat industri
+-bina forum untuk dfk
+-develop system untuk usahawan mara
+-buat lawatan untuk data center
